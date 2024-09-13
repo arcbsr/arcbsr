@@ -46,10 +46,9 @@ I'm a passionate and versatile software developer with experience in various dom
 ## 🔗 Connect with Me
 I’m always open to new opportunities, collaborations, and discussions about technology. Feel free to reach out through any of the following channels:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- **Website**: [Your Website](https://yourwebsite.com)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rafiur267)
+- **Website**: [Website](https://rafiur.my.canva.site/cv)
+- **Email**: [rafiur.267@gmail.com](mailto:rafiur.267@gmail.com)
 
 ## 🛠️ My Tools & Technologies
 - **IDE/Editors**: Android Studio, Visual Studio Code, IntelliJ IDEA
