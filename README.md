@@ -48,7 +48,7 @@ I’m always open to new opportunities, collaborations, and discussions about te
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rafiur267)
 - **Website**: [Website](https://rafiur.my.canva.site/cv)
-- **Email**: [rafiur.267@gmail.com](mailto:rafiur.267@gmail.com)
+- **Email**: [rafiur.mdrahman@gmail.com](mailto:rafiur.mdrahman@gmail.com)
 
 ## 🛠️ My Tools & Technologies
 - **IDE/Editors**: Android Studio, Visual Studio Code, IntelliJ IDEA
