@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🌟 About Me
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rafiur267) - **Website**: [Website](https://rafiur.my.canva.site/cv)
 I'm a passionate and versatile software developer with experience in various domains. I thrive on solving complex problems and building innovative solutions. Whether it’s crafting seamless user experiences or designing scalable backend systems, I’m always up for a new challenge!
 
 ## 🛠️ Expertise
