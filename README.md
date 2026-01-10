@@ -20,7 +20,7 @@
   - **App Design**: Crafting visually appealing and intuitive interfaces
   - **State Management**: Efficiently managing app state with providers, BLoC, or Riverpod
 
-### 🐍 Python & Django
+### 🐍 Python Django/ Fast API
 - **API Integrations**: Developing robust and scalable APIs
 - **DevOps**:
   - **Docker & Docker-Compose**: Containerizing applications for consistent environments
